@@ -44,7 +44,7 @@ When autonomous agents (Claude, Devin, Cursor, LangChain) execute terminal comma
 
 ---
 
-## ⚙️ Core Engineering Directives (MiroFish Standard)
+## ⚙️ Core Engineering Directives 
 
 - **Zero Dead Elements:** Every card, button, link, and interactive fallback is guaranteed functional.
 - **End-to-End Simulation Before Done:** Zero PRs dispatched without local typecheck, multi-platform runner simulation, and production build verification.
